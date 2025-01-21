@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @WendyamSawadogo
-- 👀 I’m interested in Cloud and Machine Learning
 - 🌱 I’m currently a Software Engineering student at Laval University
 - 📫 You can reach me on [Linkedin](https://www.linkedin.com/in/abdoul-sawadogo-69b983200/)
 - [Check my stats](https://github-readme-stats.vercel.app/api/?username=WendyamSawadogo)
